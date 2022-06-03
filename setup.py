@@ -10,7 +10,7 @@ REPO_NAME = "astrovishalPerceptPkg"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.3",
+    version="0.0.4",
     author= USER_NAME,
     author_email="astrovishalthakur@gmail.com",
     description="A small package for perceptron",
