@@ -1,6 +1,8 @@
 # Astrovishal's python package
 
-#### Following is a python package implementation of perceptron model. You can use it for simple machine learning tasks like Classification.
+
+#### Perceptron is called as hello world of Deep Learning or fundamental building block of Neural network.
+#### Following is a python package implementation of perceptron model. You can use it for simple Deep learning tasks like Classification.
 
 
 ## To install
