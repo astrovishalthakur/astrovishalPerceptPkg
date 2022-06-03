@@ -8,7 +8,7 @@
 ## To install
 
 ```bash
-pip install astrovishalPerceptronPkg-astrovishalthakur==0.0.2
+pip install astrovishalPerceptronPkg-astrovishalthakur==0.0.4
 ```
 
 ## How to use this package
